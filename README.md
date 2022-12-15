@@ -1,7 +1,7 @@
 # amazon_clone_flutter
 
-A amazon clone built with flutter , node.js and express.js.
+Amazon clone built with flutter , node.js and express.js.
 
-Implementaion -->
+## Implementation -->
 
 1. Auth
